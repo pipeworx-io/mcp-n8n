@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-n8n",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n MCP — query your own n8n instance (BYO).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-dc12ed25894d156b4dcd378e29e9081ce48cc1e99a055010e02f0ef49e5efcd6",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-526bbb070df0dd4aaf7b834f70ef3178d3a6a12b41f7078a0a0c894eca5a660f",
+    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
   }
 }
