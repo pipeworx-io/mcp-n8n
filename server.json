@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/n8n",
   "title": "N8n",
   "description": "n8n MCP — query your own n8n instance (BYO).",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/n8n",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-n8n",
