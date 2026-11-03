@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-n8n",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "n8n MCP — query your own n8n instance (BYO).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "n8n",
     "gatewaySlug": "n8n",
-    "sourceHash": "v1-1d47c34254a82e3f0005b0593c96f6551b7fca9f97f62525990a387701925785",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-859647b2db34188419d4cb4e1fb141ad2321e1843222380eabc5edc34a5ad569",
+    "sourceCommit": "56cf550e46fed96c0101a3877ccaf8357eecf016"
   }
 }
